@@ -6,7 +6,7 @@ export default function IndoorPlants() {
           Benefits of Indoor Plants
         </h1>
         <p className="text-lg text-gray-700 leading-relaxed mb-8 text-center">
-          Indoor plants not only enhance your living spaces, but they also improve air quality and boost your mood. Here's why you should have them in your home.
+          Indoor plants not only enhance your living spaces, but they also improve air quality and boost your mood. Here is why you should have them in your home.
         </p>
 
         <div className="space-y-8">
